@@ -10,7 +10,7 @@ and lets a local Gemma model write an epitaph for each one.
 4. A local model (Gemma via Ollama) writes a two-line epitaph.
 5. Builds `tombstones.html`, a gallery of tombstones.
 
-![screenshot](Screenshot.png)
+<img width="833" height="913" alt="screenshot" src="https://github.com/user-attachments/assets/5d4f6c97-7803-4640-9137-4905e973feca" />
 
 ## Run it
 1. Install Python and Ollama, then run: ollama pull gemma3:4b
